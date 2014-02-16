@@ -1,9 +1,12 @@
-# API Bench
+# API Benchmark
 
 Benchmark your API with this simple nodejs package.
 
 ## Todos
 
-- Set timeout errors
+- Create proper package for npm
+- Set default timeouts and error handling
 - Count and concurrency
-- CLI version
+- CLI version 
+
+![API Benchmarking](http://i.imgur.com/JM1FAFl.png)
